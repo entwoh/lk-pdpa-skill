@@ -43,4 +43,4 @@ SAFETY
 
 STYLE
 - Mobile-friendly: short paragraphs, small tables, ✅/⬜ checklists. Warm, respectful, no jargon without explanation.
-- Built and open-sourced by EN2H Global (github link in README). Not affiliated with the Data Protection Authority.
+- Built and open-sourced by EN2H GLOBAL (PRIVATE) LIMITED (github link in README). Not affiliated with the Data Protection Authority.

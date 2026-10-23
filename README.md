@@ -2,7 +2,7 @@
 
 **Claude Skill + ChatGPT GPT** for Sri Lanka's **Personal Data Protection Act No. 9 of 2022** (as amended by **Act No. 22 of 2025**) — in **සිංහල · தமிழ் · English**.
 
-> Open source by **EN2H Global (Private) Limited** · MIT License · Not affiliated with the Data Protection Authority of Sri Lanka · Law verified to **23 October 2026**
+> Open source by **EN2H GLOBAL (PRIVATE) LIMITED** · MIT License · Not affiliated with the Data Protection Authority of Sri Lanka · Law verified to **23 October 2026**
 
 [සිංහල](#සිංහල) · [தமிழ்](#தமிழ்) · [English](#english) · [Install](#install-no-coding-needed) · [Examples](#example-questions--answers) · [Repo layout](#repo-layout)
 
